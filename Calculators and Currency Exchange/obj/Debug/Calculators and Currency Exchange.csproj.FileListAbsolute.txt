@@ -1,0 +1,32 @@
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\bin\Debug\Calculators and Currency Exchange.exe.config
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\bin\Debug\Calculators and Currency Exchange.exe
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\bin\Debug\Calculators and Currency Exchange.pdb
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.csproj.AssemblyReference.cache
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmMain.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmCalculator1.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmCalculator2.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.Properties.Resources.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.csproj.GenerateResource.cache
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.exe
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.pdb
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmAbout.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmManual.resources
+C:\Users\Rhythem\OneDrive\Documents\My Files\college docs\C#Visual Studio\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmChange.resources
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.csproj.AssemblyReference.cache
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.csproj.SuggestedBindingRedirects.cache
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.exe
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.pdb
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\bin\Debug\Calculators and Currency Exchange.exe.config
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\bin\Debug\Calculators and Currency Exchange.exe
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\bin\Debug\Calculators and Currency Exchange.pdb
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmAbout.resources
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmMain.resources
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmCalculator1.resources
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmCalculator2.resources
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmChange.resources
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.Properties.Resources.resources
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators_and_Currency_Exchange.frmManual.resources
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.csproj.GenerateResource.cache
+E:\My Files\college docs\Projects\C#\ProjectFinal\Project Part 2\Calculators and Currency Exchange\Calculators and Currency Exchange\obj\Debug\Calculators and Currency Exchange.csproj.CoreCompileInputs.cache
